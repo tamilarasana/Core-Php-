@@ -1,0 +1,4 @@
+The fopen() function is also used to create a file. Maybe a little confusing, but in PHP, a file is created using the same function used to open files.
+If you are having errors when trying to get this code to run, check that you have granted your PHP file access to write information to the hard drive.
+
+
